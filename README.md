@@ -14,3 +14,5 @@ TA: Anam Pasha
 The relevant script to compare CCLE estimated ancestry as compared to U.S. population can be run as a binder instance by clicking on the button below.   
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nathanieljevans/ohsu-ethics-final-2020/master)
+
+Please direct questions to: `evansna@ohsu.edu` 
